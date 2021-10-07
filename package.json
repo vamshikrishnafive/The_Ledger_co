@@ -1,0 +1,14 @@
+{
+  "name": "The_Ledger_Co",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node geektrust.js",
+    "test": "mocha",
+    "debug": "node geektrust.js <inputData.txt>"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
